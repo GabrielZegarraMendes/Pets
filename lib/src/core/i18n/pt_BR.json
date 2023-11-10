@@ -1,0 +1,13 @@
+{
+  "login": "Entrar",
+  "password": "Senha",
+  "search": "Pesquisar",
+  "pet": "Animal de Estimação",
+  "pets": "Animais de Estimação",
+  "cats": "Gatos",
+  "dogs": "Cachorros",
+  "all": "Todos",
+  "group": "Grupo",
+  "temperament": "Temperamento",
+  "checkout": "Finalizar"
+}

@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "358984921916",
+    "project_id": "work-7be4d",
+    "storage_bucket": "work-7be4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358984921916:android:8896713a87e5e3ab2de439",
+        "android_client_info": {
+          "package_name": "br.com.works_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358984921916-vme5rglk56dl5l7buj7399h2f6g74183.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKWD8UW0lsiZos_J2esldi76LXjMoKxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358984921916-vme5rglk56dl5l7buj7399h2f6g74183.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358984921916-3a6k0ovno3rhlnb4aqrp7q4efq1cirt1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358984921916:android:8896713a87e5e3ab2de439",
+        "android_client_info": {
+          "package_name": "br.com.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358984921916-vme5rglk56dl5l7buj7399h2f6g74183.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKWD8UW0lsiZos_J2esldi76LXjMoKxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358984921916-vme5rglk56dl5l7buj7399h2f6g74183.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358984921916-3a6k0ovno3rhlnb4aqrp7q4efq1cirt1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358984921916:android:8896713a87e5e3ab2de439",
+        "android_client_info": {
+          "package_name": "br.com.hml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358984921916-vme5rglk56dl5l7buj7399h2f6g74183.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKWD8UW0lsiZos_J2esldi76LXjMoKxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358984921916-vme5rglk56dl5l7buj7399h2f6g74183.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358984921916-3a6k0ovno3rhlnb4aqrp7q4efq1cirt1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358984921916:android:8896713a87e5e3ab2de439",
+        "android_client_info": {
+          "package_name": "br.com.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358984921916-vme5rglk56dl5l7buj7399h2f6g74183.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKWD8UW0lsiZos_J2esldi76LXjMoKxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358984921916-vme5rglk56dl5l7buj7399h2f6g74183.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358984921916-3a6k0ovno3rhlnb4aqrp7q4efq1cirt1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
