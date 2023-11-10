@@ -1,0 +1,14 @@
+{
+  "welcome-text": "%s, this text is in english",
+  "login": "Login",
+  "password": "Password",
+  "search": "Search",
+  "pet": "Pet",
+  "pets": "Pets",
+  "cats": "Cats",
+  "dogs": "Dogs",
+  "all": "All",
+  "group": "group",
+  "temperament": "temperament",
+  "checkout": "Checkout"
+}
