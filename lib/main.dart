@@ -2,11 +2,11 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:hive_flutter/hive_flutter.dart';
 import 'package:works_app/firebase_options.dart';
 import 'package:works_app/src/app/app_module.dart';
 import 'package:works_app/src/app/app_widget.dart';
 import 'package:works_app/src/core/firebase/external/firebase_config.dart';
+import 'package:works_app/src/core/shered.dart';
 
 import 'app_config.dart';
 
@@ -14,7 +14,7 @@ bool shouldUseFirestoreEmulator = true;
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Hive.initFlutter();
+  await SessionManager.init();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );

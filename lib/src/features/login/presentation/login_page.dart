@@ -25,6 +25,7 @@ class _LoginPageState extends State<LoginPage> {
     cubit = Modular.get<LoginCubit>();
     cubit.emailController.clear();
     cubit.passwordController.clear();
+    cubit.isLoggedIn();
   }
 
   @override
