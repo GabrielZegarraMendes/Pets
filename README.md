@@ -12,11 +12,11 @@ A new Flutter project.
 flutter run --flavor dev -t lib/main.dart
 
 
-login pode ser feito com o email e senha:
-email: teste@teste.com password: 123
-email: teste1@teste.com password: 1234
-email: teste2@teste.com password: 12345
-email: teste3@teste.com password: 123456
+## login pode ser feito com o email e senha:
+- email: teste@teste.com password: 123
+- email: teste1@teste.com password: 1234
+- email: teste2@teste.com password: 12345
+- email: teste3@teste.com password: 123456
 
 ## Getting Started
 
