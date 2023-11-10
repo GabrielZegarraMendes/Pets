@@ -3,17 +3,20 @@
 A new Flutter project.
 
 ## Para rodar o app baixar o .env
+-[link do drive com APK](https://drive.google.com/file/d/19E64coTGvOxjbxzly0hi63EWOH-HsZO5/view?usp=sharing)
+
+## Para rodar o app baixar o .env
 -[link do drive com as envs](https://drive.google.com/file/d/1ypwYA7oaH1xfyRZyk9w8y5uvm5CZG_ZL/view?usp=sharing)
 
 - comando para rodar flavor
 flutter run --flavor dev -t lib/main.dart
 
 
-login pode ser feito com o email e senha:
-email: teste@teste.com password: 123
-email: teste1@teste.com password: 1234
-email: teste2@teste.com password: 12345
-email: teste3@teste.com password: 123456
+## login pode ser feito com o email e senha:
+- email: teste@teste.com password: 123
+- email: teste1@teste.com password: 1234
+- email: teste2@teste.com password: 12345
+- email: teste3@teste.com password: 123456
 
 ## Getting Started
 
