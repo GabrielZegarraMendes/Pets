@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Para rodar o app baixar o .env
--[link do drive com APK](https://drive.google.com/file/d/19E64coTGvOxjbxzly0hi63EWOH-HsZO5/view?usp=sharing)
+-[link do drive com APK](https://drive.google.com/file/d/1tkgsSY4dbxCEjy-EzmHuNMRYIIWu6yT2/view?usp=sharing)
 
 ## Para rodar o app baixar o .env
 -[link do drive com as envs](https://drive.google.com/file/d/1ypwYA7oaH1xfyRZyk9w8y5uvm5CZG_ZL/view?usp=sharing)
